@@ -16944,6 +16944,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: personaje
       objectReference: {fileID: 0}
+    - target: {fileID: 873979769262929964, guid: 4e922a35b85ef1f4b847a83bc62b62be, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6585294480612901385, guid: 4e922a35b85ef1f4b847a83bc62b62be, type: 3}
       propertyPath: m_FlipX
       value: 0
