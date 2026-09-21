@@ -6,6 +6,7 @@ public class SpawnPoint : MonoBehaviour
 
     private void Start()
     {
+        // Comprueba si este punto de aparición coincide con el ID solicitado
         if (GameManager.nextSpawnPointID == spawnPointID)
         {
             GameObject player = GameObject.FindWithTag("Player");
