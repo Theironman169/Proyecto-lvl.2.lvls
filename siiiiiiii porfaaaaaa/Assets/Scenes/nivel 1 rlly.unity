@@ -80305,7 +80305,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 208424034941121609, guid: 4051c1be2e3b7884291838b5900964f8, type: 3}
       propertyPath: m_Name
-      value: GameObject
+      value: Cuadrados portal
       objectReference: {fileID: 0}
     - target: {fileID: 3366568505727712076, guid: 4051c1be2e3b7884291838b5900964f8, type: 3}
       propertyPath: m_LocalPosition.x
