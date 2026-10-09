@@ -1,6 +1,6 @@
-using UnityEditor.Tilemaps;
 using UnityEngine;
 public class MovementHorizontal : MonoBehaviour
+
 {
     [SerializeField] private float speed = 7f;
     Animator AnimPlayer;
